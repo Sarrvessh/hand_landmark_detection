@@ -30,7 +30,7 @@ python app.py
 ```
 The webcam will open, and hand tracking will begin.
 
-##Dependencies
-OpenCV
-MediaPipe
+## Dependencies
+OpenCV, 
+MediaPipe, 
 NumPy
